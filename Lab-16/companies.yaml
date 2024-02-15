@@ -1,0 +1,25 @@
+# Sample YAML Data (Company Information) for Lab-15
+---
+title: "Companies Information"
+author: "hwakabh"
+companies:
+  - name: "amazon"
+    tickerSymbol: "AMZN"
+    foundYear: 1994
+    founderName: "Jeff Bezos"
+    isGafa: True
+  - name: "google"
+    tickerSymbol: "GOOG"
+    foundYear: 1998
+    founderName: "Larry Page"
+    isGafa: True
+  - name: "microsoft"
+    tickerSymbol: "MSFT"
+    foundYear: 1975
+    founderName: "Bill Gates"
+    isGafa: False
+  - name: "vmware"
+    tickerSymbol: "VMW"
+    foundYear: 1998
+    founderName: "Diane Greene"
+    isGafa: False

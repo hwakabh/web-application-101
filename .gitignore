@@ -1,0 +1,11 @@
+# Generics
+.DS_Store
+.vscode/*
+*.log
+*.db
+venv/
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
